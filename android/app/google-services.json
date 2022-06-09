@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611701966388",
+    "project_id": "mynotes-pluswhale",
+    "storage_bucket": "mynotes-pluswhale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611701966388:android:17896823985b1fcea3ac61",
+        "android_client_info": {
+          "package_name": "com.example.learningflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611701966388-86uhdiaf7m5sb4272qfr3v48v7ulmcvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqLDCy9307fA_TPvtYij5Ohfvp6Ad4m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611701966388-86uhdiaf7m5sb4272qfr3v48v7ulmcvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
